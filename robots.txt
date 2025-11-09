@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://santiagoalfarorivera.github.io/sitemap.xml
+
+# Información básica
+Host: https://santiagoalfarorivera.github.io/
